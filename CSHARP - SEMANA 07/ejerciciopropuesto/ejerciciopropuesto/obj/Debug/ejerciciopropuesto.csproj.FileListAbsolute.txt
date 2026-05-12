@@ -1,0 +1,7 @@
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejerciciopropuesto\ejerciciopropuesto\obj\Debug\ejerciciopropuesto.csproj.AssemblyReference.cache
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejerciciopropuesto\ejerciciopropuesto\obj\Debug\ejerciciopropuesto.csproj.CoreCompileInputs.cache
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejerciciopropuesto\ejerciciopropuesto\bin\Debug\ejerciciopropuesto.exe.config
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejerciciopropuesto\ejerciciopropuesto\bin\Debug\ejerciciopropuesto.exe
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejerciciopropuesto\ejerciciopropuesto\bin\Debug\ejerciciopropuesto.pdb
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejerciciopropuesto\ejerciciopropuesto\obj\Debug\ejerciciopropuesto.exe
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejerciciopropuesto\ejerciciopropuesto\obj\Debug\ejerciciopropuesto.pdb

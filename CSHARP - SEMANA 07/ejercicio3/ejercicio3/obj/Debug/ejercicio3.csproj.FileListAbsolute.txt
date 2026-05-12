@@ -1,0 +1,7 @@
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejercicio3\ejercicio3\bin\Debug\ejercicio3.exe.config
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejercicio3\ejercicio3\bin\Debug\ejercicio3.exe
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejercicio3\ejercicio3\bin\Debug\ejercicio3.pdb
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.AssemblyReference.cache
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejercicio3\ejercicio3\obj\Debug\ejercicio3.exe
+C:\Users\dc784\Desktop\SEMANA7\PRACTICA\C#\ejercicio3\ejercicio3\obj\Debug\ejercicio3.pdb
